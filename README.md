@@ -8,7 +8,7 @@ Here is the link to W3Schools where you can find learning material of SQL :
 [MySQL_W3Schools](https://www.w3schools.com/mysql/mysql_select.asp)
 
 >[!Note]  
-You can learn SQL by this resource : [MySQL_Bolt](https://sqlbolt.com/lesson/introduction)
+You can learn SQL from this resource : [MySQL_Bolt](https://sqlbolt.com/lesson/introduction)
 
 
 >Following is a code sample of MySQL in hierarchy:
