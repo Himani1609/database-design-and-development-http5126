@@ -8,10 +8,10 @@ Here is the link to W3Schools where you can find learning material of SQL :
 [SQL_W3Schools](https://www.w3schools.com/sql/default.asp)
 
 >[!Note]  
-You can learn SQL by this resource : [SQL](https://sqlbolt.com/lesson/introduction)
+You can learn SQL by this resource : [SQL_Bolt](https://sqlbolt.com/lesson/introduction)
 
 
->Following is a code sample of SQL:
+>Following is a code sample of SQL in hierarchy:
 ```SQL
 SELECT column_name(s)
 FROM table_name
