@@ -1,6 +1,8 @@
 # Database-Design-And-Development
 ## HTTP-5126
 
+<img src=./sql.png alt="CSHARP" width="100" height="100">
+
 This is repo of course HTTP-5126 Database-Design-And-Development. 
 This will include all the assignments, labs and any practice files related to this course.
 
